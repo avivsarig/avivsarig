@@ -17,6 +17,7 @@ In my spare time, I homebrew beer 🍺 and coach High-School American Football �
 - ⚡ JavaScript / Node.JS / Express.JS
 - 🖼️ Vue.JS
 - 📚 Peewee
+- ⚗️ SQLalchemy
 - 🐘 PostgreSQL
 - 🍃 MongoDB
 - 🌲 Git
