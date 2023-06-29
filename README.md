@@ -14,7 +14,7 @@ In my spare time, I homebrew beer 🍺 and coach High-School American Football �
 
 ## 🎨 Tech Stack:
 - 🐍 Python / FastAPI / pytest
-- ⚡ JavaScript / Node.JS / Express.JS
+- ⚡ JavaScript / Node.JS / Express.JS / Jest
 - 🖼️ Vue.JS
 - 📚 Peewee
 - ⚗️ SQLalchemy
