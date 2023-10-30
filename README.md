@@ -1,10 +1,14 @@
 # 🚀 Aviv Sarig
 
-👋 Hi, I’m [@avivsarig](https://github.com/avivsarig)! I'm a Mechanical Engineer 🛠️ transitioning into software development and aspiring to become a backend developer.
+👋 Hi, I’m [@avivsarig](https://github.com/avivsarig)!
+I'm a developer with an Mechanical Engineering background, aspiring to become a backend developer.
 
 I'm passionate about teamwork, delivering results, and continuous learning.
 
 In my spare time, I homebrew beer 🍺 and coach High-School American Football 🏈.
+
+📍 Based in Prague, Czech Republic
+
 
 ## 🔍 What I'm looking for:
 - 👀 My first backend job to gain hands-on experience
