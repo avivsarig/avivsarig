@@ -1,55 +1,58 @@
 # 🚀 Aviv Sarig
 
 👋 Hi, I’m [@avivsarig](https://github.com/avivsarig)!
-I'm a developer with an Mechanical Engineering background, aspiring to become a backend developer.
 
-I'm passionate about teamwork, delivering results, and continuous learning.
-
-In my spare time, I homebrew beer 🍺 and coach High-School American Football 🏈.
+I'm a backend developer with an Mechanical Engineering background.
 
 📍 Based in Prague, Czech Republic
 
 
 ## 🔍 What I'm looking for:
-- 👀 My first backend job to gain hands-on experience
-- 🌱 Expanding my knowledge in JS/Node.JS and Python
-- 💞️ Collaborating on open-source projects to gain experience
+- 👀 Full-time Backend job to gain more hands-on experience
 
 
 ## 🎨 Tech Stack:
-- 🐍 Python / FastAPI / pytest
-- ⚡ JavaScript / Node.JS / Express.JS / Jest
-- 🖼️ Vue.JS
+- 🐍 Python / FastAPI
+- ⚡ JavaScript / Node.JS / Express.JS
+- 🐘 PHP / Laravel
+- 👉🏽 C
+  ###
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 🍃 MongoDB
 - 📚 Peewee
 - ⚗️ SQLalchemy
-- 🐘 PostgreSQL
-- 🍃 MongoDB
+- 🦦 Mongoose
+  ###
+- 🧪 Pytest / Jest
 - 🌲 Git
 - 🐳 Docker
-- 🐧 Linux CLI
-- 🔠 C
+- 🐧 Linux / Bash
 
 
 ## 💼 Professional Background:
+- ↔️ Backend Developer at Belle-AI
+- 💡 Mechanical Engineer for several startup companies
 - 🚀 Product Manager at Ultra-Clean Technology
-- 💡 Mechanical Designer R&D for several startup companies
 - 🔬 Product Expert at Lumenis
 
 
 ## 🎓 Education:
 - 🏛️ BSc. in Mechanical Engineering - Technion Israel Institute of Technology
+- 📖 Self-taught programmer
 
 
 ## 🌍 Languages:
-- 🌐 English – fluent
-- 🐪 Hebrew – native speaker
-- 💃🏻 Spanish – basic
+- 🌐 English – Fluent
+- 🐪 Hebrew – Native speaker
+- 💃🏻 Spanish – Basic
+- 🍺 Czech - Work in Progress
 
 
 ## 📫 How to reach me:
 - 📧 Email: avivs15@gmail.com
-- 🐦 Twitter: [@sarig_aviv](https://twitter.com/sarig_aviv)
 - 💼 LinkedIn: [Aviv Sarig](https://www.linkedin.com/in/aviv-sarig/)
+- 🐦 Twitter: [@sarig_aviv](https://twitter.com/sarig_aviv) (Heb account)
 
 
 <!---
