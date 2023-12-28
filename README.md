@@ -4,11 +4,16 @@
 
 I'm a backend developer with an Mechanical Engineering background.
 
+I work part-time in [Belle-AI](https://belle-ai.com/) as a Backend Developer - Working on our API and other components.
+
+
 📍 Based in Prague, Czech Republic
+
 
 
 ## 🔍 What I'm looking for:
 - 👀 Full-time Backend job to gain more hands-on experience
+- 🌍 Open to remote opportunities
 
 
 ## 🎨 Tech Stack:
@@ -17,11 +22,10 @@ I'm a backend developer with an Mechanical Engineering background.
 - 🐘 PHP / Laravel
 - 👉🏽 C
   ###
-- 🐘 PostgreSQL
-- 🐬 MySQL
+- 🐘 PostgreSQL / 🐬 MySQL
 - 🍃 MongoDB
-- 📚 Peewee
-- ⚗️ SQLalchemy
+  ###
+- 📚 Peewee / ⚗️ SQLalchemy
 - 🦦 Mongoose
   ###
 - 🧪 Pytest / Jest
@@ -38,8 +42,8 @@ I'm a backend developer with an Mechanical Engineering background.
 
 
 ## 🎓 Education:
+- 📖 Self-taught web development - since 2021
 - 🏛️ BSc. in Mechanical Engineering - Technion Israel Institute of Technology
-- 📖 Self-taught programmer
 
 
 ## 🌍 Languages:
