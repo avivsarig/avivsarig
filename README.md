@@ -2,7 +2,7 @@
 
 👋 Hi, I’m [@avivsarig](https://github.com/avivsarig)!
 
-I'm a backend developer with an Mechanical Engineering background.
+I'm a backend developer with some Mechanical Engineering background.
 
 I work part-time in [Belle-AI](https://belle-ai.com/) as a Backend Developer - Working on our API and other components.
 
