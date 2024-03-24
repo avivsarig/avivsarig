@@ -1,19 +1,13 @@
-# 🚀 Aviv Sarig
+# Aviv Sarig
 
 👋 Hi, I’m [@avivsarig](https://github.com/avivsarig)!
 
-I'm a backend developer with some Mechanical Engineering background.
+I'm a developer in Pure Storage, helping to imporve our MDM systems 🚀
 
-I work part-time in [Belle-AI](https://belle-ai.com/) as a Backend Developer - Working on our API and other components.
+I also do some magic in [Belle-AI](https://belle-ai.com/) 💙
 
 
 📍 Based in Prague, Czech Republic
-
-
-
-## 🔍 What I'm looking for:
-- 👀 Full-time Backend job to gain more hands-on experience
-- 🌍 Open to remote opportunities
 
 
 ## 🎨 Tech Stack:
@@ -35,14 +29,12 @@ I work part-time in [Belle-AI](https://belle-ai.com/) as a Backend Developer - W
 
 
 ## 💼 Professional Background:
+- 🚀 Member of Technical Stuff in Pure Storage
 - ↔️ Backend Developer at Belle-AI
-- 💡 Mechanical Engineer for several startup companies
-- 🚀 Product Manager at Ultra-Clean Technology
-- 🔬 Product Expert at Lumenis
-
+- ⚙️ Mechanical Engineer career
 
 ## 🎓 Education:
-- 📖 Self-taught web development - since 2021
+- 📖 Self-taught Web Development
 - 🏛️ BSc. in Mechanical Engineering - Technion Israel Institute of Technology
 
 
@@ -57,9 +49,3 @@ I work part-time in [Belle-AI](https://belle-ai.com/) as a Backend Developer - W
 - 📧 Email: avivs15@gmail.com
 - 💼 LinkedIn: [Aviv Sarig](https://www.linkedin.com/in/aviv-sarig/)
 - 🐦 Twitter: [@sarig_aviv](https://twitter.com/sarig_aviv) (Heb account)
-
-
-<!---
-avivsarig/avivsarig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
