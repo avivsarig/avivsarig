@@ -22,7 +22,7 @@ On my day-job I'm automating MDM tests at Pure Storage 🤖 and at night I'm bui
 > 
 > Software Proverb
 
-The contents of this repo are a hodgepodge of projects - I'm not proud in all of them, and I neglected others earlier than I'd like to.
+The contents of my GitHub are a hodgepodge of projects repositories - I'm not proud in all of them, and I neglected others earlier than I'd like to.
 
 ### Active projects:
 - **[Obsidian task automation](https://github.com/avivsarig/Obsidian-backend)** - where I'm trying to automate my productivity flows, and to integrate them with mobile tools like Whatsapp and Google Workplace, to help me create and complete (!) all my tasks, while also serving as a private archive.
@@ -39,7 +39,7 @@ The contents of this repo are a hodgepodge of projects - I'm not proud in all of
 - **[Genetic filter/parser](https://github.com/avivsarig/VCFParser)** - for processing genetic variant data for a biotech interview. Provided me with insights about data-hygiene and data-flow performance.
 
 ### The rest
-Mostly leftovers from past courses I took in the past, and never deleted for some reason.
+Mostly leftovers from past courses I took, and never deleted for some reason.
 
 ---
 
