@@ -31,7 +31,7 @@ The contents of my GitHub are a hodgepodge of projects repositories - I'm not pr
 - For my **[FastAPI project Beerpy](https://github.com/avivsarig/beerpy)** I wanted to fetch beer styles according to the Beer Judge Certification Program guidelines from their website, so I wrote **[a parser](https://github.com/avivsarig/BJCP-Guidelines-Parser)** to do that for me.
 
 ### Learning experiments:
-- **[CerebGo](https://github.com/avivsarig/cerebgo)** - used for time-boxed study time to teach me the basics of Go syntax and concepts.
+- **[CerebGo](https://github.com/avivsarig/cerebgo)** - used for time-boxed study time to teach me the basics of Go and Functional Programming.
 - **[JanusGate](https://github.com/avivsarig/JanusGate)** - commit-message generator I built to learn about OpenAI API, and its different language models.
 
 ### Hiring process artifacts:
