@@ -6,7 +6,7 @@ I used to be a mechanical engineer for almost a decade, but one Covid later - I 
 
 Turns out debugging is way faster than rebuilding physical prototypes 😅
 
-On my day-job I'm automating MDM tests at Pure Storage 🤖 and at night I'm building backend services at Belle-AI 💙
+I work in StatsPerform ⚽️ and Belle-AI 💙
 
 📍 Based in Prague, Czech Republic since 2023
 
@@ -47,12 +47,13 @@ Mostly leftovers from past courses I took, and never deleted for some reason.
 
 **Languages & Frameworks:**
 - 🐍 Python / FastAPI
-- ⚡ JavaScript / Node.JS / Express.JS  
+- ⚡ TypeScript / JavaScript / Node.JS / Express.JS  
 - 🐘 PHP / Laravel
 
 **Databases:**
 - 🐘 PostgreSQL / 🐬 MySQL
 - 🍃 MongoDB / ElasticSearch
+- ✨ StarrocksDB
 
 **ORMs & Libraries:**
 - 📚 Peewee / ⚗️ SQLalchemy
@@ -68,6 +69,7 @@ Mostly leftovers from past courses I took, and never deleted for some reason.
 ---
 ## Resume stuff:
 ### 💼 Professional Background
+- 🧑🏻‍💻 Software Engineer in Stats Perform
 - 🚀 Member of Technical Staff in Pure Storage
 - ↔️ Backend Developer at Belle-AI  
 - ⚙️ Mechanical Engineer career
