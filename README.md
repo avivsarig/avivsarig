@@ -25,9 +25,10 @@ I work in StatsPerform ⚽️ and Belle-AI 💙
 The contents of my GitHub are a hodgepodge of projects repositories - I'm not proud in all of them, and I neglected others earlier than I'd like to.
 
 ### Active projects:
-- **[Obsidian task automation](https://github.com/avivsarig/Obsidian-backend)** - where I'm trying to automate my productivity flows, and to integrate them with mobile tools like Whatsapp and Google Workplace, to help me create and complete (!) all my tasks, while also serving as a private archive.
+- Currently only private stuff, mostly homelabbing...
 
 ### Projects born out of need:
+- **[Obsidian task automation](https://github.com/avivsarig/Obsidian-backend)** - where I'm trying to automate my productivity flows, and to integrate them with mobile tools like Whatsapp and Google Workplace, to help me create and complete (!) all my tasks, while also serving as a private archive.
 - For my **[FastAPI project Beerpy](https://github.com/avivsarig/beerpy)** I wanted to fetch beer styles according to the Beer Judge Certification Program guidelines from their website, so I wrote **[a parser](https://github.com/avivsarig/BJCP-Guidelines-Parser)** to do that for me.
 
 ### Learning experiments:
