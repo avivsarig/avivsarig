@@ -6,7 +6,7 @@ I used to be a mechanical engineer for almost a decade, but one Covid later - I 
 
 Turns out debugging is way faster than rebuilding physical prototypes 😅
 
-I work in StatsPerform ⚽️ and Belle-AI 💙
+I work in StatsPerform ⚽️
 
 📍 Based in Prague, Czech Republic since 2023
 
