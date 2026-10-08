@@ -47,23 +47,23 @@ Mostly leftovers from past courses I took, and never deleted for some reason.
 ## 🎨 Tech Stack
 
 **Languages & Frameworks:**
-- 🐍 Python / FastAPI
 - ⚡ TypeScript / JavaScript / Node.JS / Express.JS  
+- 🐍 Python / FastAPI
 - 🐘 PHP / Laravel
 
 **Databases:**
-- 🐘 PostgreSQL / 🐬 MySQL
+- 🐘 PostgreSQL / 🐬 MySQL / ✨ StarrocksDB
 - 🍃 MongoDB / ElasticSearch
-- ✨ StarrocksDB
+- 🔴 Redis
 
 **ORMs & Libraries:**
 - 📚 Peewee / ⚗️ SQLalchemy
+- 🔶 TypeORM
 - 🦦 Mongoose
 
 **Tools & Infrastructure:**
-- 🧪 Pytest
 - 🌲 Git (naturally)
-- 🐳 Docker
+- 🐳 Docker / 🟪 Terraform / 🚢 k8s
 - 🐧 Linux / Bash
 - ☁️ AWS
 
@@ -72,12 +72,13 @@ Mostly leftovers from past courses I took, and never deleted for some reason.
 ### 💼 Professional Background
 - 🧑🏻‍💻 Software Engineer in Stats Perform
 - 🚀 Member of Technical Staff in Pure Storage
-- ↔️ Backend Developer at Belle-AI  
+- ↔️ Backend Developer at Belle-AI
 - ⚙️ Mechanical Engineer career
 
 ### 🎓 Education
+- ⌨️ **On-Going** - B.Sc. in Computer Sciences - The Open University of Israel
 - 📖 Self-taught Web Development, 2021 to present day - I don't think I'll graduate any time soon...
-- 🏛️ BSc. in Mechanical Engineering - Technion Israel Institute of Technology
+- 🏛️ B.Sc. in Mechanical Engineering - Technion Israel Institute of Technology
 
 ### 🌍 Languages
 - 🌐 English – Fluent
